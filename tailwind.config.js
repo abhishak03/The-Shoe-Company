@@ -6,7 +6,10 @@ module.exports = {
       screens:{
         'media560': '560px',
         'media1200':'1200px',
-      }
+      },
+      backgroundImage: {
+        'testimonial-section':"url('./images/t-bg.png')",
+      },
     },
   },
   plugins: [],
